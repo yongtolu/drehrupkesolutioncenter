@@ -1,0 +1,209 @@
+*
+{
+	
+	padding: 0 auto;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: lightGreen;
+	background-size: cover;
+	background-position:center;
+	color: white;
+    font-family: beige;
+	height: 100vh;
+}
+
+button  {
+	margin: 10px;
+	height: 30px;
+	position:absolute;
+	left: 0px;
+	background-color: green;
+	font-family: "Roboto", sans-serif;
+	text-transform: uppercase;
+}
+
+p {
+	margin: 10px;
+}
+
+	
+div.pics  {
+	padding: 20px;
+	width: 1200px;
+	border-radius: 100px;
+}
+
+img {
+	width: 100%;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: 30px;
+	border-radius: 30px;
+	padding: 5px;
+ 
+}
+
+
+h1 {
+	color: red;
+	margin: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.menu-bar {
+	text-align: center;
+	color: black;
+	background: white;
+	font-weight: bold;
+}
+
+.menu-bar ul {
+	display: inline-flex;
+	list-style: none;
+}
+
+.menu-bar ul li {
+	width: 100px;
+	padding: 10px;
+	margin: 10px;
+	position: relative;
+	left:350px;
+}
+
+.menu-bar ul li a {
+	text-decoration: none;
+	color:#000000;
+}
+ 
+ .active, .menu-bar ul li:hover {
+	 background: gold;
+	 border-radius: 5px;
+ }
+ 
+ p {
+	 font-size: 20px;
+	 padding-left: 10px;
+ }
+	
+div.quality p {
+       color: blue;
+	   text-align: center;
+}
+
+div.quality h1 {
+	color: black;
+}
+
+div.quality br {
+	text-align: center;
+}
+
+.treatments ul {
+	margin-left: 50px;
+
+}
+
+.treatments li {
+	display: inline-block;
+	height: 100%;
+	width: 50%
+}
+	
+
+
+
+.treatments h2 {
+	padding: 20px 0 10px 20px;
+	text-transform: uppercase;
+	color: black;
+}
+
+.treatments h3 {
+	margin: 10px 0 10px 0;
+	text-transform: uppercase;
+	color: black;
+}
+
+div.treatments {
+	width: 1200px;
+}
+
+h4 {
+	text-transform: uppercase;
+	margin: 0 0 0 2px;
+	color: red;
+}
+
+div.testimonies {
+	width: 1250px;
+	padding: 10px 1opx 0 10px;
+	margin: 10px 0 10px 0;
+}
+
+
+div.testimonies .testimages {
+    border-radius: 30px;
+	width: 20%;
+	height: 20%;
+	float: left;
+	display: block;
+}
+
+p.review {
+	color: white;
+    padding: 30px 0 30px 10px;
+	clear: left;
+	font-style: italic;
+	font-size:  25px;
+}
+
+h3.Get {
+	text-transform: uppercase;
+	padding: 25px 0 0 20px;
+	font-size: 25px;
+	font-family: Perpetua;
+	background-color: black;
+	height: 100px;
+	
+}
+
+.under {
+	padding: 10px 0 0 10px;
+	margin-left: 15px;
+}
+
+div.spell {
+	position: relative;
+	display: inline-block;
+	z-index: 1;
+}
+
+h2 {
+	padding: 10px 0 5px 20px;
+	color: red;
+}
+
+h4 {
+	text-transform: uppercase;
+	padding-left: 20px;
+	padding-top: 10px;
+	color: black;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+.monday {
+	border: solid white;
+	margin: 10px 0 20px 10px;
+	width: 250px;
+	background-color: #2196f3;
+}
+
+
